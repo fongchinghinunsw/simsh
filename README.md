@@ -8,7 +8,9 @@ A simple Unix shell
 simPLEshELL(https://github.com/fongchinghinunsw/simsh) is a Unix shell based on BASH. It is built just for fun and have most of the basic functionality of BASH.
 
 ## Build Instruction
-```make```
+```
+make
+```
 
 This will install the shell as `simsh`, open the shell by `./simsh`.
 
