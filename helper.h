@@ -1,3 +1,4 @@
+#include <stdbool.h>
 // Returns true if the string represents an integer.
 int is_integer(char *string);
 
