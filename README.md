@@ -9,6 +9,7 @@ simPLEshELL(https://github.com/fongchinghinunsw/simsh) is a Unix shell based on 
 
 ## Build Instruction
 ```make```
+
 This will install the shell as `simsh`, open the shell by `./simsh`.
 
 ## License
