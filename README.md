@@ -5,7 +5,7 @@
 A simple Unix shell
 
 ## About simsh
-simPLEshELL(https://github.com/fongchinghinunsw/simsh) is a Unix shell based on BASH. It is built just for fun and have most of the basic functionality of BASH.
+simPLEshELL(https://github.com/fongchinghinunsw/simsh) is a Unix shell based on BASH. It is built just for fun and have many of useful functionalities in BASH.
 
 ## Build Instruction
 
