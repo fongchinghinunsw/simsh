@@ -7,6 +7,8 @@ A simple Unix shell
 ## About simsh
 simPLEshELL(https://github.com/fongchinghinunsw/simsh) is a Unix shell based on BASH. It is built just for fun and have many of useful functionalities in BASH.
 
+![demo0](https://github.com/fongchinghinunsw/simsh/blob/master/src/demo0.png)
+
 ## Build Instruction
 
 ```
